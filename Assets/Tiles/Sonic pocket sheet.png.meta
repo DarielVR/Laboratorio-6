@@ -1,0 +1,3248 @@
+fileFormatVersion: 2
+guid: 60555000c9f62ef428c3884f69ad8005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 165811891908536975
+    second: Sonic pocket sheet_0
+  - first:
+      213: 6921938446060416420
+    second: Sonic pocket sheet_1
+  - first:
+      213: -2972692048639329402
+    second: Sonic pocket sheet_2
+  - first:
+      213: 2569750133962587851
+    second: Sonic pocket sheet_3
+  - first:
+      213: -916543679849610311
+    second: Sonic pocket sheet_4
+  - first:
+      213: -4829886988646554354
+    second: Sonic pocket sheet_5
+  - first:
+      213: 3727137190011734506
+    second: Sonic pocket sheet_6
+  - first:
+      213: -3121176817923772695
+    second: Sonic pocket sheet_7
+  - first:
+      213: 1536655902462037982
+    second: Sonic pocket sheet_8
+  - first:
+      213: -8563888434500206660
+    second: Sonic pocket sheet_9
+  - first:
+      213: -6668314288880589674
+    second: Sonic pocket sheet_10
+  - first:
+      213: -190383900126999227
+    second: Sonic pocket sheet_11
+  - first:
+      213: 1055376034663236867
+    second: Sonic pocket sheet_12
+  - first:
+      213: -3666977563368566427
+    second: Sonic pocket sheet_13
+  - first:
+      213: -2207432205342735619
+    second: Sonic pocket sheet_14
+  - first:
+      213: 8208142576436790039
+    second: Sonic pocket sheet_15
+  - first:
+      213: 7052738257560042780
+    second: Sonic pocket sheet_16
+  - first:
+      213: 2966423159370532103
+    second: Sonic pocket sheet_17
+  - first:
+      213: -13329904046948333
+    second: Sonic pocket sheet_18
+  - first:
+      213: -1994300149203449687
+    second: Sonic pocket sheet_19
+  - first:
+      213: 5668415829913517828
+    second: Sonic pocket sheet_20
+  - first:
+      213: -835125864806436227
+    second: Sonic pocket sheet_21
+  - first:
+      213: 196360055437411650
+    second: Sonic pocket sheet_22
+  - first:
+      213: -2791885305302016755
+    second: Sonic pocket sheet_23
+  - first:
+      213: 3286739742493777741
+    second: Sonic pocket sheet_24
+  - first:
+      213: -5802403945195752405
+    second: Sonic pocket sheet_25
+  - first:
+      213: -2454159510249903240
+    second: Sonic pocket sheet_26
+  - first:
+      213: 3949808233599792610
+    second: Sonic pocket sheet_27
+  - first:
+      213: 6263413790783046882
+    second: Sonic pocket sheet_28
+  - first:
+      213: -8358043452659096027
+    second: Sonic pocket sheet_29
+  - first:
+      213: 8516581294457802528
+    second: Sonic pocket sheet_30
+  - first:
+      213: -7685872841363150909
+    second: Sonic pocket sheet_31
+  - first:
+      213: 5729327866772604395
+    second: Sonic pocket sheet_32
+  - first:
+      213: 7596908082710407450
+    second: Sonic pocket sheet_33
+  - first:
+      213: 5894788038866827147
+    second: Sonic pocket sheet_34
+  - first:
+      213: 3863659738898878153
+    second: Sonic pocket sheet_35
+  - first:
+      213: 3634878239070863877
+    second: Sonic pocket sheet_36
+  - first:
+      213: -667203242735844703
+    second: Sonic pocket sheet_37
+  - first:
+      213: -8056457610133555176
+    second: Sonic pocket sheet_38
+  - first:
+      213: -3064228432227684702
+    second: Sonic pocket sheet_39
+  - first:
+      213: -3412373002381274124
+    second: Sonic pocket sheet_40
+  - first:
+      213: -8828989065657775831
+    second: Sonic pocket sheet_41
+  - first:
+      213: -2614916312177866805
+    second: Sonic pocket sheet_42
+  - first:
+      213: 3135764508135124712
+    second: Sonic pocket sheet_43
+  - first:
+      213: 5816626995413823326
+    second: Sonic pocket sheet_44
+  - first:
+      213: -2459633375195277317
+    second: Sonic pocket sheet_45
+  - first:
+      213: -3405927260413395289
+    second: Sonic pocket sheet_46
+  - first:
+      213: 2531750042761252129
+    second: Sonic pocket sheet_47
+  - first:
+      213: 3508778549851787840
+    second: Sonic pocket sheet_48
+  - first:
+      213: 2375990292293063217
+    second: Sonic pocket sheet_49
+  - first:
+      213: -8881674132881259418
+    second: Sonic pocket sheet_50
+  - first:
+      213: 6257790026258029732
+    second: Sonic pocket sheet_51
+  - first:
+      213: -7946725232025325440
+    second: Sonic pocket sheet_52
+  - first:
+      213: -8844552724712473361
+    second: Sonic pocket sheet_53
+  - first:
+      213: -6080378147196817434
+    second: Sonic pocket sheet_54
+  - first:
+      213: 2595595652391720257
+    second: Sonic pocket sheet_55
+  - first:
+      213: 5348792960623880701
+    second: Sonic pocket sheet_56
+  - first:
+      213: 3789484086818010980
+    second: Sonic pocket sheet_57
+  - first:
+      213: 6230480225202271247
+    second: Sonic pocket sheet_58
+  - first:
+      213: -902303217109063183
+    second: Sonic pocket sheet_59
+  - first:
+      213: 5705861378043814285
+    second: Sonic pocket sheet_60
+  - first:
+      213: -3325577287553862703
+    second: Sonic pocket sheet_61
+  - first:
+      213: -7236165661047310058
+    second: Sonic pocket sheet_62
+  - first:
+      213: -4290409893287398880
+    second: Sonic pocket sheet_63
+  - first:
+      213: 971132788967261205
+    second: Sonic pocket sheet_64
+  - first:
+      213: 2158882089978695428
+    second: Sonic pocket sheet_65
+  - first:
+      213: -7117037905450257728
+    second: Sonic pocket sheet_66
+  - first:
+      213: -5846957127249388721
+    second: Sonic pocket sheet_67
+  - first:
+      213: 6231082745139937547
+    second: Sonic pocket sheet_68
+  - first:
+      213: 4710721291123961861
+    second: Sonic pocket sheet_69
+  - first:
+      213: 7754181727106304327
+    second: Sonic pocket sheet_70
+  - first:
+      213: -210225645345906911
+    second: Sonic pocket sheet_71
+  - first:
+      213: -8546538872385130499
+    second: Sonic pocket sheet_72
+  - first:
+      213: -1866833137238788057
+    second: Sonic pocket sheet_73
+  - first:
+      213: 1744664180455990583
+    second: Sonic pocket sheet_74
+  - first:
+      213: 6125409000541682584
+    second: Sonic pocket sheet_75
+  - first:
+      213: -8035200263909831612
+    second: Sonic pocket sheet_76
+  - first:
+      213: -1677522968768037257
+    second: Sonic pocket sheet_77
+  - first:
+      213: 1873901913281630780
+    second: Sonic pocket sheet_78
+  - first:
+      213: -3731863900254084095
+    second: Sonic pocket sheet_79
+  - first:
+      213: 1504251926676935967
+    second: Sonic pocket sheet_80
+  - first:
+      213: 3830646238628010892
+    second: Sonic pocket sheet_81
+  - first:
+      213: -2955706526275541453
+    second: Sonic pocket sheet_82
+  - first:
+      213: 2914602551441585431
+    second: Sonic pocket sheet_83
+  - first:
+      213: 6024232875518284255
+    second: Sonic pocket sheet_84
+  - first:
+      213: -1064265214429402179
+    second: Sonic pocket sheet_85
+  - first:
+      213: 360120927540957848
+    second: Sonic pocket sheet_86
+  - first:
+      213: 2198666792157180307
+    second: Sonic pocket sheet_87
+  - first:
+      213: 5838552795865912514
+    second: Sonic pocket sheet_88
+  - first:
+      213: 1106164039176814199
+    second: Sonic pocket sheet_89
+  - first:
+      213: -3014539730136962868
+    second: Sonic pocket sheet_90
+  - first:
+      213: 150837251594975271
+    second: Sonic pocket sheet_91
+  - first:
+      213: -8068390184978487258
+    second: Sonic pocket sheet_92
+  - first:
+      213: 1470335872450652638
+    second: Sonic pocket sheet_93
+  - first:
+      213: -4969205319373454189
+    second: Sonic pocket sheet_94
+  - first:
+      213: -2766826444658692414
+    second: Sonic pocket sheet_95
+  - first:
+      213: -4212355550408442113
+    second: Sonic pocket sheet_96
+  - first:
+      213: 5676901872164940330
+    second: Sonic pocket sheet_97
+  - first:
+      213: 6108837078984519951
+    second: Sonic pocket sheet_98
+  - first:
+      213: -2601073119189080690
+    second: Sonic pocket sheet_99
+  - first:
+      213: -2104373945286679910
+    second: Sonic pocket sheet_100
+  - first:
+      213: -1329675636052730536
+    second: Sonic pocket sheet_101
+  - first:
+      213: -7398829525818583890
+    second: Sonic pocket sheet_102
+  - first:
+      213: -3407478914571536265
+    second: Sonic pocket sheet_103
+  - first:
+      213: 2287668274210094676
+    second: Sonic pocket sheet_104
+  - first:
+      213: -1423125844422065986
+    second: Sonic pocket sheet_105
+  - first:
+      213: -6545621354306357426
+    second: Sonic pocket sheet_106
+  - first:
+      213: 5818713542010541620
+    second: Sonic pocket sheet_107
+  - first:
+      213: -1971761162406542655
+    second: Sonic pocket sheet_108
+  - first:
+      213: 4122708508054091364
+    second: Sonic pocket sheet_109
+  - first:
+      213: 6161526119271790867
+    second: Sonic pocket sheet_110
+  - first:
+      213: -5733249397759292590
+    second: Sonic pocket sheet_111
+  - first:
+      213: -1276226818753441176
+    second: Sonic pocket sheet_112
+  - first:
+      213: 7612850861361938244
+    second: Sonic pocket sheet_113
+  - first:
+      213: -9183794049212772561
+    second: Sonic pocket sheet_114
+  - first:
+      213: -7369710296423844161
+    second: Sonic pocket sheet_115
+  - first:
+      213: 9057722524049877748
+    second: Sonic pocket sheet_116
+  - first:
+      213: -4639447254321699236
+    second: Sonic pocket sheet_117
+  - first:
+      213: -8517599698272950625
+    second: Sonic pocket sheet_118
+  - first:
+      213: 231557501786238354
+    second: Sonic pocket sheet_119
+  - first:
+      213: -5516542697633369989
+    second: Sonic pocket sheet_120
+  - first:
+      213: 1012592339191095052
+    second: Sonic pocket sheet_121
+  - first:
+      213: 5690965886408090124
+    second: Sonic pocket sheet_122
+  - first:
+      213: -974253650999022334
+    second: Sonic pocket sheet_123
+  - first:
+      213: 6499140942747115839
+    second: Sonic pocket sheet_124
+  - first:
+      213: -7380996259062545769
+    second: Sonic pocket sheet_125
+  - first:
+      213: 2338334205127100467
+    second: Sonic pocket sheet_126
+  - first:
+      213: -3139997280219429651
+    second: Sonic pocket sheet_127
+  - first:
+      213: 6971392386644603812
+    second: Sonic pocket sheet_128
+  - first:
+      213: 5976109302758840878
+    second: Sonic pocket sheet_129
+  - first:
+      213: -4064877440853095043
+    second: Sonic pocket sheet_130
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sonic pocket sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a6eb489051d4200800000000000000
+      internalID: 165811891908536975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adec8ab75aaf0060800000000000000
+      internalID: 6921938446060416420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b793ee450eeb6d0800000000000000
+      internalID: -2972692048639329402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce3a58b12699a320800000000000000
+      internalID: 2569750133962587851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b34f651168c743f0800000000000000
+      internalID: -916543679849610311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e078af5bc8fcb0800000000000000
+      internalID: -4829886988646554354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_6
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae90ccfe68379b330800000000000000
+      internalID: 3727137190011734506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 298
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee2876883a5fa4d0800000000000000
+      internalID: -3121176817923772695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc148d66c435510800000000000000
+      internalID: 1536655902462037982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbff98d97d4f62980800000000000000
+      internalID: -8563888434500206660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6946c980c736573a0800000000000000
+      internalID: -6668314288880589674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0afdf9de9b5df0800000000000000
+      internalID: -190383900126999227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305009279e275ae00800000000000000
+      internalID: 1055376034663236867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561d618a5574c1dc0800000000000000
+      internalID: -3666977563368566427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df20aceca10ad51e0800000000000000
+      internalID: -2207432205342735619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 292
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71346464f2e29e170800000000000000
+      internalID: 8208142576436790039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d7ca7041c50e160800000000000000
+      internalID: 7052738257560042780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 249
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705c5cb852ada2920800000000000000
+      internalID: 2966423159370532103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 249
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310446cd584a0dff0800000000000000
+      internalID: -13329904046948333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 249
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8483f9492d254e0800000000000000
+      internalID: -1994300149203449687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 249
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f323d2a224aae40800000000000000
+      internalID: 5668415829913517828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 249
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b87d53790964f0800000000000000
+      internalID: -835125864806436227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 249
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2454c681e6c99b200800000000000000
+      internalID: 196360055437411650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 249
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d17db5b1b3149d0800000000000000
+      internalID: -2791885305302016755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 249
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1084c168dc9d20800000000000000
+      internalID: 3286739742493777741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 216
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b243843ba58b97fa0800000000000000
+      internalID: -5802403945195752405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 216
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b68699de211fdd0800000000000000
+      internalID: -2454159510249903240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 216
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f0a659a980d630800000000000000
+      internalID: 3949808233599792610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 216
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e408e068ad1ce650800000000000000
+      internalID: 6263413790783046882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 216
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526a9fa33c3420c80800000000000000
+      internalID: -8358043452659096027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 216
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fc4e48099f03670800000000000000
+      internalID: 8516581294457802528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 216
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c72abd4f5b465590800000000000000
+      internalID: -7685872841363150909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 216
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be54abce659a28f40800000000000000
+      internalID: 5729327866772604395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 216
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196f3da6a3ad6960800000000000000
+      internalID: 7596908082710407450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 216
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f0ea4d7e7ec150800000000000000
+      internalID: 5894788038866827147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 183
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cecb0edf0a7e9530800000000000000
+      internalID: 3863659738898878153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 183
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502cd91008ea17230800000000000000
+      internalID: 3634878239070863877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 183
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2cdbb8f2e9db6f0800000000000000
+      internalID: -667203242735844703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 183
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8183fff0d76b13090800000000000000
+      internalID: -8056457610133555176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_39
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 183
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeaa62d97ca975d0800000000000000
+      internalID: -3064228432227684702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 183
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35ee775d0d4a0d0800000000000000
+      internalID: -3412373002381274124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 183
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92909a70931297580800000000000000
+      internalID: -8828989065657775831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_42
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 183
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7834fe773f5bbd0800000000000000
+      internalID: -2614916312177866805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 183
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eeeba6c439748b20800000000000000
+      internalID: 3135764508135124712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 183
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fa69c3f6fc8b050800000000000000
+      internalID: 5816626995413823326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_45
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 181
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75ac91a70adddd0800000000000000
+      internalID: -2459633375195277317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 182
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7d38b337bbb0d0800000000000000
+      internalID: -3405927260413395289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 183
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4dd60045922320800000000000000
+      internalID: 2531750042761252129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 183
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0421d63308fa1b030800000000000000
+      internalID: 3508778549851787840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_49
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 181
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13297e1159639f020800000000000000
+      internalID: 2375990292293063217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 182
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66446daee64fdb480800000000000000
+      internalID: -8881674132881259418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 149
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac971aafd228d650800000000000000
+      internalID: 6257790026258029732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 149
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0803f79418f87b190800000000000000
+      internalID: -7946725232025325440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 149
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecbc464826d14580800000000000000
+      internalID: -8844552724712473361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_54
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 149
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef29445a482e9ba0800000000000000
+      internalID: -6080378147196817434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 149
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1455b596e78650420800000000000000
+      internalID: 2595595652391720257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 149
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9a81bcbdaba3a40800000000000000
+      internalID: 5348792960623880701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 149
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46778cc03b3f69430800000000000000
+      internalID: 3789484086818010980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04f64b11cc177650800000000000000
+      internalID: 6230480225202271247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 149
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a58031006a73f0800000000000000
+      internalID: -902303217109063183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 149
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d812cef31ba4f2f40800000000000000
+      internalID: 5705861378043814285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 149
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3be3e931d29d1d0800000000000000
+      internalID: -3325577287553862703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_62
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 149
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619356d8ba9f39b90800000000000000
+      internalID: -7236165661047310058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_63
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 149
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02278c10fe66574c0800000000000000
+      internalID: -4290409893287398880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 149
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c02450282a7d00800000000000000
+      internalID: 971132788967261205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_65
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 148
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f022592d3e5fd10800000000000000
+      internalID: 2158882089978695428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_66
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 148
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b5a09bb33b3d90800000000000000
+      internalID: -7117037905450257728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9c55a87f6bdea0800000000000000
+      internalID: -5846957127249388721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c1263eb0497650800000000000000
+      internalID: 6231082745139937547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_69
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 120
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50030594e08df5140800000000000000
+      internalID: 4710721291123961861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490ff782336c9b60800000000000000
+      internalID: 7754181727106304327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_71
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 121
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fda7ea3e0251df0800000000000000
+      internalID: -210225645345906911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_72
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffaa645d28946980800000000000000
+      internalID: -8546538872385130499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_73
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 121
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72834ff072da716e0800000000000000
+      internalID: -1866833137238788057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7356d6814da463810800000000000000
+      internalID: 1744664180455990583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b744d3803d10550800000000000000
+      internalID: 6125409000541682584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_76
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c878aaeeb3d7090800000000000000
+      internalID: -8035200263909831612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb5007fbd38b8e0800000000000000
+      internalID: -1677522968768037257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_78
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 120
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32931d9cdf610a10800000000000000
+      internalID: 1873901913281630780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_79
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 121
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10460431e81c53cc0800000000000000
+      internalID: -3731863900254084095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_80
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 121
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15964e482d20e410800000000000000
+      internalID: 1504251926676935967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_81
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 119
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bdb995570392530800000000000000
+      internalID: 3830646238628010892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_82
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 120
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ea0903983bf6d0800000000000000
+      internalID: -2955706526275541453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7157f1c049fb27820800000000000000
+      internalID: 2914602551441585431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_84
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 90
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd15f7de1ef5a9350800000000000000
+      internalID: 6024232875518284255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 90
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb612b1d68fa31f0800000000000000
+      internalID: -1064265214429402179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 90
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892534a53186ff400800000000000000
+      internalID: 360120927540957848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_87
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f9f56ccb338e10800000000000000
+      internalID: 2198666792157180307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_88
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 90
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c493f775d4b60150800000000000000
+      internalID: 5838552795865912514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_89
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 90
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ef17a3552e95f00800000000000000
+      internalID: 1106164039176814199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 90
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc862ef46143a26d0800000000000000
+      internalID: -3014539730136962868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_91
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f6306ea1e71200800000000000000
+      internalID: 150837251594975271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_92
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628eb1bffd1570090800000000000000
+      internalID: -8068390184978487258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_93
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed96fe19faea76410800000000000000
+      internalID: 1470335872450652638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_94
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39483ca0716d90bb0800000000000000
+      internalID: -4969205319373454189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_95
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce26f202024a99d0800000000000000
+      internalID: -2766826444658692414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe7246e1f4ba85c0800000000000000
+      internalID: -4212355550408442113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 56
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a242bdc2868ce40800000000000000
+      internalID: 5676901872164940330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_98
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 56
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f017b9315f2f6c450800000000000000
+      internalID: 6108837078984519951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_99
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 56
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85eae777c127ebd0800000000000000
+      internalID: -2601073119189080690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 56
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a994db03cbc2e0800000000000000
+      internalID: -2104373945286679910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_101
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 56
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dd59ecd0b0c8de0800000000000000
+      internalID: -1329675636052730536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_102
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 56
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea459e73fb3125990800000000000000
+      internalID: -7398829525818583890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_103
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 56
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77874551bf336b0d0800000000000000
+      internalID: -3407478914571536265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_104
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 56
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3930cc2e6fbf10800000000000000
+      internalID: 2287668274210094676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_105
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 57
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb08b84a59a004ce0800000000000000
+      internalID: -1423125844422065986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_106
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 57
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47bb56fe084925a0800000000000000
+      internalID: -6545621354306357426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_107
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 49
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4361b49332930c050800000000000000
+      internalID: 5818713542010541620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_108
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 49
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c8dc6ba5e2a4e0800000000000000
+      internalID: -1971761162406542655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4667b078b8dc63930800000000000000
+      internalID: 4122708508054091364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_110
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 6
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3197c7d3c53228550800000000000000
+      internalID: 6161526119271790867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_111
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc5dd7c086f60b0800000000000000
+      internalID: -5733249397759292590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_112
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 25
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862df57587ee94ee0800000000000000
+      internalID: -1276226818753441176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_113
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 25
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f3187168746a960800000000000000
+      internalID: 7612850861361938244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_114
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 25
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f835658fb9c8080800000000000000
+      internalID: -9183794049212772561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_115
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb63e14288789b990800000000000000
+      internalID: -7369710296423844161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_116
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 25
+        width: 69
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa2c0055ae73bd70800000000000000
+      internalID: 9057722524049877748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 23
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566ef39d4f5d9fb0800000000000000
+      internalID: -4639447254321699236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_118
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 25
+        width: 82
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96677dd3386bc980800000000000000
+      internalID: -8517599698272950625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_119
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dab0f2258a63300800000000000000
+      internalID: 231557501786238354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 14
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b947f4ad4173b0800000000000000
+      internalID: -5516542697633369989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f54c71e537d0e00800000000000000
+      internalID: 1012592339191095052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_122
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 14
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c026838525f5afe40800000000000000
+      internalID: 5690965886408090124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_123
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 14
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d631b5771ca72f0800000000000000
+      internalID: -974253650999022334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_124
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 14
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31a3a5e046913a50800000000000000
+      internalID: 6499140942747115839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_125
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7920712320f619990800000000000000
+      internalID: -7380996259062545769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_126
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3380fbe029e637020800000000000000
+      internalID: 2338334205127100467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de404dc2c1d7c64d0800000000000000
+      internalID: -3139997280219429651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_128
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a370db807c5fb060800000000000000
+      internalID: 6971392386644603812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_129
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 4
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a19d18fb76fe250800000000000000
+      internalID: 5976109302758840878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sonic pocket sheet_130
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dc3721187a697c0800000000000000
+      internalID: -4064877440853095043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
